@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <img height="170em"  align="right" alt="Github Lnguages" src="https://github-readme-codewars-stats.herokuapp.com/api/?username=seagirl1110&card&colormode=bright_mode" />
-<img height="170em"  alt="Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=seagirl1110&theme=radical&layout=compact" />
+<img height="170em"  alt="Github Lnguages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seagirl1110&layout=compact"/>
