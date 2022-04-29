@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img height="170em"  align="right" alt="Github Lnguages" src="https://github-readme-codewars-stats.herokuapp.com/api/?username=seagirl1110&card&colormode=bright_mode" />
+<img height="170em"  align="right" alt="Codewars" src="https://github-readme-codewars-stats.herokuapp.com/api/?username=seagirl1110&card&colormode=bright_mode" />
 <img height="170em"  alt="Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=seagirl1110&layout=compact" />
 
+<img height="170em"  alt="" src="https://github-readme-stats.vercel.app/api?username=seagirl1110&theme=default&show_icons=true" />
 
 _________________
 #### ⚡ Contacts: <a target='_blank' title='Telegram' href="https://t.me/seagirl1110">Telegram</a>
