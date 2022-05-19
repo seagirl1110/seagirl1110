@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img height="170em" width="47%" align="right" alt="Codewars" src="https://github-readme-codewars-stats.herokuapp.com/api/?username=seagirl1110&card&colormode=bright_mode" />
 <img height="170em" width="47%" alt="Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=seagirl1110&layout=compact" />
 <img height="170em" width="47%" align="right" alt="Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=seagirl1110" />
-<img height="170em" width="47%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=seagirl1110&theme=default&show_icons=true" />
+<img height="170em" width="47%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=seagirl1110&show_icons=true&theme=default" />
 
 _________________
 #### ⚡ Contacts: <a target='_blank' title='Telegram' href="https://t.me/seagirl1110">Telegram</a>
