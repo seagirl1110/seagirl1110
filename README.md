@@ -21,5 +21,4 @@ Here are some ideas to get you started:
 <img height="170em" width="47%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=seagirl1110&show_icons=true&theme=default" />
 
 _________________
-#### ⚡ Contacts: <a target='_blank' title='Telegram' href="https://t.me/seagirl1110">Telegram</a>
-#### <a target='_blank' title='Resume' href="https://seagirl1110.github.io/rsschool-cv/">Resume<a/>
+#### ⚡ Contacts: <a target='_blank' title='Telegram' href="https://t.me/seagirl1110">Telegram</a> <a target='_blank' title='CV' href="https://seagirl1110.github.io/rsschool-cv/">CV<a/>
